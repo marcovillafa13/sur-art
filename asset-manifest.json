@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sur-art/static/css/main.52fb58b4.css",
+    "main.js": "/sur-art/static/js/main.4391b4e6.js",
+    "static/media/ceramica4.png": "/sur-art/static/media/ceramica4.d15ff48930a7cd5c3b93.png",
+    "static/media/cuadro3.jpg": "/sur-art/static/media/cuadro3.4ec1a56110a296445b6f.jpg",
+    "static/media/carrusel2.jpg": "/sur-art/static/media/carrusel2.47bddccd46b3c8f29135.jpg",
+    "static/media/cuadro6.jpg": "/sur-art/static/media/cuadro6.c7767cffdaae5ae5fb37.jpg",
+    "static/media/cuadro5.jpg": "/sur-art/static/media/cuadro5.d912154670015b32fbc5.jpg",
+    "static/media/cuadro2.jpg": "/sur-art/static/media/cuadro2.1a4e8c63ede998df582e.jpg",
+    "static/media/cuadro1.jpg": "/sur-art/static/media/cuadro1.cd483a76921f45b8d648.jpg",
+    "static/media/carrusel1.jpg": "/sur-art/static/media/carrusel1.48e0a949842da3202067.jpg",
+    "static/media/cuadro4.jpg": "/sur-art/static/media/cuadro4.3dfce29d1cc5c356a12a.jpg",
+    "static/media/ceramica2.jpg": "/sur-art/static/media/ceramica2.7d9eb4fb87e228eb5e77.jpg",
+    "static/media/ceramica1.jpg": "/sur-art/static/media/ceramica1.c64cea9f4d2251486a9d.jpg",
+    "static/media/carrusel3.jpg": "/sur-art/static/media/carrusel3.032887a2c4b107f3768b.jpg",
+    "static/media/ceramica5.jpg": "/sur-art/static/media/ceramica5.b69b0a2e95be962a7e47.jpg",
+    "static/media/ceramica3.jpg": "/sur-art/static/media/ceramica3.6d1d04c2adefa504bc6b.jpg",
+    "static/media/logosurart.png": "/sur-art/static/media/logosurart.84c256778357fec4d908.png",
+    "index.html": "/sur-art/index.html",
+    "main.52fb58b4.css.map": "/sur-art/static/css/main.52fb58b4.css.map",
+    "main.4391b4e6.js.map": "/sur-art/static/js/main.4391b4e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52fb58b4.css",
+    "static/js/main.4391b4e6.js"
+  ]
+}
