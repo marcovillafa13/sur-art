@@ -1,0 +1,150 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.seccion-oscura {
+  background-color: #1b1b32;
+  color: white;
+}
+
+.navbar-fixed {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: rgb(4, 4, 5);
+}
+
+.icono-carrito {
+  font-size: 40px;
+}
+
+section {
+  margin-bottom: 160px;
+}
+
+.Titulos h1 {
+  font-size: 3.5rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding-top: 140px;
+}
+
+.Titulos p {
+  font-size: 1.2rem;
+  padding: 50px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagen-carrousel {
+  height: 700px;
+}
+
+.div-card {
+  width: 16rem;
+}
+
+footer {
+  min-height: 300px;
+}
+
+.footer-texto {
+  font-size: 1.5rem;
+  padding: 20px;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+}
+
+.iconos-redes-sociales a {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  margin: 10px;
+  border: 2px solid white;
+  border-radius: 50%;
+  transition: all 0.2s ease-in;
+}
+
+.iconos-redes-sociales i {
+  color: white;
+  font-size: 1.5rem;
+  transition: all 0.2s ease-in;
+}
+
+.iconos-redes-sociales a:hover {
+  background-color: white;
+  border: 2px solid rgb(13, 110, 253);
+}
+
+.iconos-redes-sociales a:hover i {
+  color: black;
+}
+
+.derechos-de-autor {
+  font-size: 15px;
+  color: #aeaeae;
+  padding: 20px;
+}
+
+.titulo-h {
+  font-size: 30px;
+}
+
+.carta-titulo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.bi-shop {
+  margin-left: 10px;
+}
+
+.elementos-li {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-bottom: 2px solid rgb(129, 127, 127);
+  font-weight: bold;
+  padding-right: 10px;
+}
+
+.nombre-precio {
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.titulo-carrito {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 605px) {
+  .contenedor-h1 h1 {
+    font-size: 10px;
+  }
+
+  .imagen-carrousel {
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 900px) and (min-width: 606px) {
+  .imagen-carrousel {
+    height: 450px;
+  }
+}

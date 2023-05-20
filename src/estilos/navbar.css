@@ -1,0 +1,14 @@
+.navbar-collapse {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    border-bottom: 2px solid rgb(174, 170, 170);
+}
